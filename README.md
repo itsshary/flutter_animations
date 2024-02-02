@@ -1,4 +1,4 @@
-# ws_cude
+# flutter_animations
 
 A new Flutter project.
 
